@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" alt="Dhruv's Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
