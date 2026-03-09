@@ -1,5 +1,16 @@
+<div align="center">
+
+# Hello I'm
+# Dhruv Vaishnav
+
+</div>
+
 # 💫 About Me:
-Discord Bot Developement 
+I am a software developer specializing in building robust backend systems and intelligent automation tools. My technical focus revolves around **Python**, **Django**, and **SQL**, with a strong foundation in **Object-Oriented Programming (OOP)**. 
+
+From crafting feature-rich **Discord Bots** to writing custom **Automation Scripts**, I enjoy turning complex logic into efficient, scalable code.
+
+---
 
 
 ## 🌐 Socials:
