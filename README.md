@@ -55,3 +55,10 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/Dhruv-022/Judo?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=discord" />
+</p>
