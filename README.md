@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hello I'm
-# Dhruv Vaishnav
+<img src="https://readme-typing-svg.demolab.com?font=Goudy+Bookletter+1911&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=120&lines=Hello+I'm;Dhruv+Vaishnav" alt="Typing SVG" />
 
-</div>
+</div
 
 # 💫 About Me:
 I am a software developer specializing in building robust backend systems and intelligent automation tools. My technical focus revolves around **Python**, **Django**, and **SQL**, with a strong foundation in **Object-Oriented Programming (OOP)**. 
