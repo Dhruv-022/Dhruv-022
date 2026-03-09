@@ -17,17 +17,25 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,js,html" />
-</p>
+<table border="0" style="border: none;">
+ <tr>
+  <td valign="top" width="50%">
+   <h4>🚀 Languages & Frameworks</h4>
+   <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,js,html" width="220px"/>
+  </td>
+  <td valign="top" width="50%">
+   <h4>🛠 Databases & Tools</h4>
+   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,postman" width="180px"/>
+   <br><br>
+   <img src="https://cdn.simpleicons.org/googlegemini/white" height="32" />&nbsp;&nbsp;
+   <img src="https://img.icons8.com/color/48/chatgpt.png" height="32" />&nbsp;&nbsp;
+   <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
+  </td>
+ </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,postman" />
-  <img src="https://cdn.simpleicons.org/googlegemini/white" height="48" />
-  <img src="https://img.icons8.com/color/48/chatgpt.png" height="48" />
-  <img src="https://cdn.simpleicons.org/perplexity/white" height="48" />
-</p>
 ---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false)<br/>
