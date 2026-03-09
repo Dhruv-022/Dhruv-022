@@ -7,14 +7,12 @@
 > - **Proficient in Python, Django, and SQL with a focus on OOP.**
 > - **Currently developing Judo and contributing to Open Source.**
 
-## 🌐 Socials:
-## 🌐 Socials:
+## 🌐 Socials
 <p align="left">
-<a href="https://discord.gg/wSDwVHUZYM" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://linkedin.com/in/dhruv-vaishnav-102044375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://instagram.com/dhruv_9321" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/@DhruvVaishnav-bx1cs" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+<a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 # 💻 Tech Stack:
