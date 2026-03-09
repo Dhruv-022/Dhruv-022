@@ -8,12 +8,18 @@
 > - **Currently developing Judo and contributing to Open Source.**
 
 ## 🌐 Socials
-<p align="left">
-<a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
-<a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&color=FFFFFF&center=true&vCenter=true&lines=🌐+Socials" alt="Socials" />
+</div>
+
+<p align="center">
+  <a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+</p>
+
+---
 
 ## 💻 Tech Stack
 
