@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Dhruv! 👋
 
-<!--
-**Dhruv-022/Dhruv-022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building functional tools and contributing to the open-source community. Currently, I'm focusing on mastering **Python** and **C++**, while exploring the intersection of logic and code through **Discrete Mathematics**.
 
-Here are some ideas to get you started:
+### 🛠 What I'm working on
+- 🤖 **Judo**: A custom Discord bot built with Python.
+- 🏗 **Borg Collective**: Contributing to open-source infrastructure.
+- 📚 **CS Fundamentals**: Deep-diving into Sorting Algorithms and Object-Oriented Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- **Languages:** Python, C++
+- **Focus Areas:** OOP, Discord API, Algorithm Design
+- **Tools:** Git, GitHub, Linux
+
+### 🎨 Beyond Coding
+When I'm not at the terminal, I'm usually drafting scenes or designing characters for my **manga project**.
+
+---
+[Insert GitHub Stats Here]
