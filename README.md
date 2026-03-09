@@ -17,24 +17,17 @@
 
 ---
 
-## 💻 Tech Stack
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" />
 
-<table border="0" style="border: none;">
- <tr>
-  <td valign="top" width="50%">
-   <h4>🚀 Languages & Frameworks</h4>
-   <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,js,html" width="220px"/>
-  </td>
-  <td valign="top" width="50%">
-   <h4>🛠 Databases & Tools</h4>
-   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,postman" width="180px"/>
-   <br><br>
-   <img src="https://cdn.simpleicons.org/googlegemini/white" height="32" />&nbsp;&nbsp;
-   <img src="https://img.icons8.com/color/48/chatgpt.png" height="32" />&nbsp;&nbsp;
-   <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
-  </td>
- </tr>
-</table>
+### 💫 About Me
+> - **Backend developer focused on logic-driven systems.**
+> - **Proficient in Python, Django, and SQL.**
+> - **Currently developing Judo and contributing to Open Source.**
+
+### 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,django,flask,cpp,js,mysql,git,github" />
+
+<br clear="right" /> 
 
 ---
 # 📊 GitHub Stats:
