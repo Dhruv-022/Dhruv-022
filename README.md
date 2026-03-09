@@ -48,10 +48,10 @@
   <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
 </p>
 
-## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&layout=compact&hide_border=false" width="48%" />
-</p>
+# 📊 GitHub Stats:
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" width="100%" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
