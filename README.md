@@ -48,9 +48,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/google-gemini.png" height="40" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/chatgpt.png" height="40" />&nbsp;&nbsp;
-  <img src="https://static.cdnlogo.com/logos/p/82/perplexity-ai.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/googlegemini/white" height="32" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
 </p>
 
 # 📊 GitHub Stats:
