@@ -8,10 +8,6 @@
 > - **Currently developing Judo and contributing to Open Source.**
 
 ## 🌐 Socials
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&color=FFFFFF&center=true&vCenter=true&lines=🌐+Socials" alt="Socials" />
-</div>
-
 <p align="center">
   <a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
@@ -41,7 +37,6 @@
 </table>
 
 ---
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false)<br/>
