@@ -60,3 +60,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-022&theme=react-dark&area=true&hide_border=false" width="495" />
 </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&layout=donut&hide_border=false&include_all_commits=true&count_private=true" width="495" />
+</div>
