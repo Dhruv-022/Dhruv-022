@@ -1,16 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=38&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Dhruv+Vaishnav;Backend+Developer;Discord+Bot+Expert;Automation+Specialist" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=2000&pause=500&color=38B6FF&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Dhruv+Vaishnav;Backend+Developer;Discord+Bot+Expert;Automation+Specialist" alt="Typing SVG" />
 </div>
 
-# 💫 About Me:
-I am a software developer specializing in building robust backend systems and intelligent automation tools. My technical focus revolves around **Python**, **Django**, and **SQL**, with a strong foundation in **Object-Oriented Programming (OOP)**. 
-
-From crafting feature-rich **Discord Bots** to writing custom **Automation Scripts**, I enjoy turning complex logic into efficient, scalable code.
-
----
-
+## 💫 About Me
+> **Backend developer focused on building efficient, logic-driven systems.** > Proficient in **Python**, **Django**, and **SQL** with a focus on **OOP**. 
+> Currently developing **Judo** and contributing to **Open Source**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wSDwVHUZYM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv_9321) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-vaishnav-102044375) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DhruvVaishnav-bx1cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvvaishnav9321@gmail.com) 
