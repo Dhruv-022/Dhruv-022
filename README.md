@@ -15,11 +15,6 @@
 <a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
-### 💫 About Me
-> - **Backend developer focused on logic-driven systems.**
-> - **Proficient in Python, Django, and SQL.**
-> - **Currently developing Judo and contributing to Open Source.**
-
 ## 💻 Tech Stack
 
 ### **Languages & Frameworks**
