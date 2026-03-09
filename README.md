@@ -55,3 +55,26 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
+## 🚀 Recent Development
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Judo (Discord Bot)</h3>
+      <p>A custom Discord bot focused on community automation and management.</p>
+      <ul>
+        <li><b>Tech:</b> Python, Discord.py</li>
+        <li><b>Status:</b> 🏗️ Adding custom commands & testing</li>
+      </ul>
+      <a href="https://github.com/Dhruv-022/Judo"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖋️ Manga Project</h3>
+      <p>A long-term creative project involving character design and storyboarding.</p>
+      <ul>
+        <li><b>Genre:</b> Action / Fantasy</li>
+        <li><b>Status:</b> 🎨 Finalizing scene generation and scripts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
