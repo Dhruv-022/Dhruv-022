@@ -21,7 +21,7 @@
 | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=django" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=flask" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" /> |
 | <img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=c" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="40" /> |
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://img.icons8.com/color/48/google-gemini.png" height="40" />&nbsp;<img src="https://img.icons8.com/color/48/chatgpt.png" height="40" />&nbsp;<img src="https://img.icons8.com/fluency/48/perplexity-ai.png" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160d1398251fca57a.svg" height="40" />&nbsp;<img src="https://img.icons8.com/color/48/chatgpt.png" height="40" />&nbsp;<img src="https://img.icons8.com/fluency/48/perplexity-ai.png" height="40" /> |
 
 ---
 # 📊 GitHub Stats:
