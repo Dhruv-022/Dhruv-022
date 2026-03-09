@@ -21,10 +21,9 @@
 | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=django" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=flask" height="40" /> | <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" /> |
 | <img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=c" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="40" /> |
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="35" />&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="35" />&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/perplexityai/perplexityai-icon.svg" height="35" /> |
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://img.icons8.com/color/48/google-gemini.png" height="40" />&nbsp;<img src="https://img.icons8.com/color/48/chatgpt.png" height="40" />&nbsp;<img src="https://img.icons8.com/fluency/48/perplexity-ai.png" height="40" /> |
 
 ---
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false)<br/>
