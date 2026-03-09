@@ -8,28 +8,30 @@
 > - **Currently developing Judo and contributing to Open Source.**
 
 ## 🌐 Socials
-<p align="center">
-  <a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
-  <a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<p align="left">
+<a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
-
----
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" />
 
 ### 💫 About Me
 > - **Backend developer focused on logic-driven systems.**
 > - **Proficient in Python, Django, and SQL.**
 > - **Currently developing Judo and contributing to Open Source.**
 
-### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,django,flask,cpp,js,mysql,git,github" />
+### **Tools & Workflow**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/white" height="40" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/white" height="40" alt="Perplexity" />
+</p>
 
-<br clear="right" /> 
-
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-022&theme=blue_navy&hide_border=false)<br/>
