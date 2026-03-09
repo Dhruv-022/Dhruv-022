@@ -20,6 +20,27 @@
 > - **Proficient in Python, Django, and SQL.**
 > - **Currently developing Judo and contributing to Open Source.**
 
+## 💻 Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+</p>
+
+### **Databases & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
+</p>
+
 ### **Tools & Workflow**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;&nbsp;
@@ -27,9 +48,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/white" height="40" alt="Gemini" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/perplexity/white" height="40" alt="Perplexity" />
+  <img src="https://img.icons8.com/color/48/google-gemini.png" height="40" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="40" />&nbsp;&nbsp;
+  <img src="https://static.cdnlogo.com/logos/p/82/perplexity-ai.svg" height="40" />
 </p>
 
 # 📊 GitHub Stats:
