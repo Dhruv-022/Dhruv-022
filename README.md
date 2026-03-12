@@ -51,8 +51,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  /*<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="Dhruv's Stats" />
-  <br/>*/
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="Dhruv's Stats" />
+  <br/>-->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-022&theme=blue_navy&hide_border=false" alt="Dhruv's Streak" />
 </div>
 
