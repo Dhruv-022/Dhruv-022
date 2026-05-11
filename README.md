@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=2900&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Dhruv+Vaishnav;Backend+Developer;Discord+Bot+Developer;Python+Automation" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
+## **💫 About Me**
 > - **Backend developer focused on building efficient, logic-driven systems.**
 > - **Proficient in Python, Django, and SQL with a focus on OOP.**
 > - **Currently developing Judo(A Discord Bot) and contributing to Open Source.**
