@@ -48,7 +48,7 @@
   <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
 </p>
 
-### 📊 GitHub Stats:
+### **📊 GitHub Stats**:
 
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="Dhruv's Stats" />
