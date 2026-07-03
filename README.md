@@ -19,13 +19,13 @@
 
 ### **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="30" />
 </p>
 
 ### **Databases & Libraries**
