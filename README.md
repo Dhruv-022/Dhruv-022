@@ -30,19 +30,19 @@
 
 ### **Databases & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="30" />
 </p>
 
 ### **Tools & Workflow**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="30" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/white" height="32" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/chatgpt.png" height="32" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
