@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&duration=2900&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Dhruv+Vaishnav;Backend+Developer;Discord+Bot+Developer;Python+Automation" alt="Typing SVG" />
 </div>
@@ -43,9 +44,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="30" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="30" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/white" height="32" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/chatgpt.png" height="32" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/perplexity/white" height="32" />
+  <img src="https://cdn.simpleicons.org/googlegemini/white" height="30" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="30" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/white" height="30" />
 </p>
 
 ### **📊 GitHub Stats**:
