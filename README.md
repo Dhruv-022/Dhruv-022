@@ -12,7 +12,7 @@
 <a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>&nbsp;&nbsp;
 <a href="mailto:dhruvvaishnav9321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dhruv_9321"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+<a href="https://instagram.com/_dhruv__vaishnav_><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
 ## 💻 Tech Stack
