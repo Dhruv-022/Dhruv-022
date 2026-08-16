@@ -18,8 +18,7 @@
 </p>
 
 ## 💻 Tech Stack
-
-### **Languages & Frameworks**
+## **Languages & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="35" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" height="35" />&nbsp;&nbsp;
@@ -30,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="35" />
 </p>
 
-### **Databases & Libraries**
+## **Databases & Libraries**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="35" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="35" />&nbsp;&nbsp;
@@ -38,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=numpy" height="35" />
 </p>
 
-### **Tools & Workflow**
+## **Tools & Workflow**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="35" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="35" />&nbsp;&nbsp;
@@ -50,7 +49,7 @@
   <img src="https://cdn.simpleicons.org/perplexity/white" height="35" />
 </p>
 
-### **📊 GitHub Stats**:
+## **📊 GitHub Stats**:
 
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-022&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="Dhruv's Stats" />
