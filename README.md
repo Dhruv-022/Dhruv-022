@@ -49,7 +49,7 @@
   <img src="https://cdn.simpleicons.org/perplexity/white" height="35" />
 </p>
 
-## **📊 GitHub Stats**:
+## **📊 GitHub Stats**
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-022&theme=blue_navy&hide_border=false" alt="Dhruv's Streak" />
