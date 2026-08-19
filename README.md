@@ -3,10 +3,10 @@
 </div>
 
 ## **💫 About Me**
-> - **Backend developer focused on building efficient, logic-driven systems.**
-> - **Proficient in Python, Django, and SQL with a focus on OOP.**
-> - **Currently developing Judo(A Discord Bot) and contributing to Open Source.**
-> - **Want to become worlds best programmer**
+ **Backend developer focused on building efficient, logic-driven systems.**
+ **Proficient in Python, Django, and SQL with a focus on OOP.**
+ **Currently developing Judo(A Discord Bot) and contributing to Open Source.**
+ **Want to become worlds best programmer**
 
 
 ## 🌐 Socials
