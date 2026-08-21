@@ -9,8 +9,6 @@
 * **Driven to build impactful engineering systems and master software architecture.**
 * **Optimized core backend execution time by 60% in production microservices.**
 
----
-
 ## 🌐 Socials
 <p align="left">
 <a href="https://linkedin.com/in/dhruv-vaishnav-102044375"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>&nbsp;&nbsp;
@@ -18,8 +16,6 @@
 <a href="https://discord.gg/wSDwVHUZYM"><img src="https://skillicons.dev/icons?i=discord" height="32" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_dhruv__vaishnav_"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
