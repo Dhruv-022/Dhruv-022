@@ -7,6 +7,7 @@
  **Proficient in Python, Django, and SQL with a focus on OOP.**
  **Currently developing Judo(A Discord Bot) and contributing to Open Source.**
  **Want to become worlds best programmer**
+ **Reduced execution time by 60% **
 
 
 ## 🌐 Socials
