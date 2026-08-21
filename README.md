@@ -28,13 +28,10 @@
   <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" height="36" alt="Django" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="Flask" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="36" alt="C" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++" />
 </p>
 
-### Databases & Infrastructure
+### Databases & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite" />&nbsp;&nbsp;
@@ -49,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
