@@ -42,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" />
 </p>
----
 
 ## 📊 GitHub Stats
 
