@@ -5,7 +5,7 @@
 ## 💫 About Me
 * **Backend developer focused on building efficient, logic-driven systems.**
 * **Proficient in Python, Django, and SQL with a strong foundation in OOP.**
-* **Currently developing Judo (a Discord Bot) and contributing to Open Source.**
+* **Available as Freelancer.**
 * **Driven to build impactful engineering systems and master software architecture.**
 * **Optimized core backend execution time by 60% in production microservices.**
 
