@@ -8,6 +8,7 @@
 * **Available as Freelancer.**
 * **Driven to build impactful engineering systems and master software architecture.**
 * **Optimized core backend execution time by 60% in production microservices.**
+* **Driven by entusiasm.**
 
 ## 🌐 Socials
 <p align="left">
