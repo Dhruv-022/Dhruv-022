@@ -9,6 +9,7 @@
 * **Driven to build impactful engineering systems and master software architecture.**
 * **Optimized core backend execution time by 60% in production microservices.**
 * **Driven by entusiasm.**
+* **Introvert Devotee...**
 
 ## 🌐 Socials
 <p align="left">
